@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://localhost:8888/
+HostUrl=https://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls
